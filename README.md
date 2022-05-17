@@ -40,5 +40,4 @@ https://termux.com
 # NAME GAUTAM KUMAR SINGH
 # USERNAME MRX
 # DISCORD https://discord.gg/xx2Vh9x8XV
-
-https://github.com/haymrx/
+# GIT HUB https://github.com/haymrx/
